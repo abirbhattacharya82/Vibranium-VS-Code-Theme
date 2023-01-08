@@ -1,7 +1,7 @@
 {
-  "name": "mclaren-f1",
-  "displayName": "McLaren F1",
-  "description": "A VS Code theme based on McLaren F1 cars",
+  "name": "vibranium-theme",
+  "displayName": "Vibranium Theme",
+  "description": "Vibranium Theme for VS Code",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Abir Bhattacharya",
+        "label": "Vibranium",
         "uiTheme": "vs-dark",
-        "path": "./themes/Abir Bhattacharya-color-theme.json"
+        "path": "./themes/Vibranium-color-theme.json"
       }
     ]
   }

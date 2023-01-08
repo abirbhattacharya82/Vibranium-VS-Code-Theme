@@ -1,4 +1,4 @@
-# mclaren-f1 README
+# vibranium-theme README
 
 ## Working with Markdown
 
