@@ -1,7 +1,7 @@
 {
-  "name": "wakanda-forever",
-  "displayName": "Wakanda Forever",
-  "description": "Black Panther Inspired VS Code Theme",
+  "name": "mclaren-f1",
+  "displayName": "McLaren F1",
+  "description": "A VS Code theme based on McLaren F1 cars",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Wakanda Forever",
+        "label": "Abir Bhattacharya",
         "uiTheme": "vs-dark",
-        "path": "./themes/Wakanda Forever-color-theme.json"
+        "path": "./themes/Abir Bhattacharya-color-theme.json"
       }
     ]
   }
