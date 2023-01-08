@@ -1,0 +1,21 @@
+{
+  "name": "wakanda-forever",
+  "displayName": "Wakanda Forever",
+  "description": "Black Panther Inspired VS Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wakanda Forever",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wakanda Forever-color-theme.json"
+      }
+    ]
+  }
+}
