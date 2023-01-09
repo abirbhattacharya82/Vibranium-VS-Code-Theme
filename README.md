@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/70687014/211232778-f77053f3-141f-455b-930e-fc37cfc1f514.png)
+
 # How to Use
 - Go to [Releases](https://github.com/abirbhattacharya82/Vibranium-VS-Code-Theme/releases/tag/Latest)
 - Download __vibranium.0.0.1.vsix__ file
