@@ -2,6 +2,7 @@
 # Demo
 ![LrtOskmo-default](https://user-images.githubusercontent.com/70687014/211232888-a5d1cab1-3760-4bf5-89e9-9f9b2eb7fdbf.jpeg)
 # How to Use
+https://user-images.githubusercontent.com/70687014/211238480-3653dffd-5195-4cb4-99b3-a7ee072968fc.mp4
 - Go to [Releases](https://github.com/abirbhattacharya82/Vibranium-VS-Code-Theme/releases/tag/Latest)
 - Download __vibranium.0.0.1.vsix__ file
 - Navigate to the folder where you downloaded the file in your local machine
